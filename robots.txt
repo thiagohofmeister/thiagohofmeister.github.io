@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thiagohofmeister.github.io/sitemap.xml
