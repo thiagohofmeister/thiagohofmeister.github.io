@@ -1,5 +1,5 @@
-# Núcleo 9
+# Thiago Hofmeister — Desenvolvedor
 
-Site oficial, política de privacidade, suporte e verificação `app-ads.txt` do jogo Núcleo 9.
+Site de desenvolvedor, catálogo de aplicativos, políticas de privacidade, suporte e verificação `app-ads.txt`.
 
 Publicado pelo GitHub Pages em <https://thiagohofmeister.github.io/>.
